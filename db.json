@@ -1,4 +1,24 @@
 {
-  "furniture": [],
-  "wishlisted": []
+  "Income":[
+    {
+      "month": "Nov 1",
+      "price": 30
+    },
+    {
+      "month": "Nov 4",
+      "price": 20
+    },
+    {
+      "month": "Nov 8",
+      "price": 40
+    },
+    {
+      "month": "Nov 12",
+      "price": 10
+    },
+    {
+      "month": "Nov 16",
+      "price": 40
+    }
+  ]
 }
